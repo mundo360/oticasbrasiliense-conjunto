@@ -19,7 +19,6 @@ LinkBehaviour_A0F3607B_B97B_5C10_41E6_33F5BB0855C4.source = https://www.instagra
 
 ### Tooltip
 HotspotPanoramaOverlayArea_D5125B43_CD28_DB27_41D4_56BC346FE250.toolTip = FRENTE LOJA
-HotspotPanoramaOverlayArea_D4699947_CD28_472F_41E7_D39A22B59B3E.toolTip = INSTRUÇÕES
 HotspotPanoramaOverlayArea_C21DCF02_D77A_55BB_41CD_41332B2D0D80.toolTip = Medição de lentes
 HotspotPanoramaOverlayArea_D8254184_D75E_4CBF_41DD_A9E7D5739A89.toolTip = Medição de lentes
 
